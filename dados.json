@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "id": "2943",
+      "usuario": "Fiap",
+      "senha": "12345"
+    },
+    {
+      "id": "f775",
+      "usuario": "israel",
+      "senha": "123"
+    },
+    {
+      "id": "eca5",
+      "usuario": "israel",
+      "senha": "123"
+    }
+  ]
+}
